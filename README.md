@@ -2,11 +2,17 @@
 
 A hackathon app where one can create hackathons & see the list.
 
-**Website link:** [Hacksphere](https://hacksphere.netlify.app)
+## 🌐 Website Link
 
-**Tech Stack:** React, Tailwind CSS, TypeScript
+[Hacksphere](https://hacksphere.netlify.app)
 
-## Usage
+## 🛠️ Tech Stack
+
+- **Frontend:** React
+- **Styling:** Tailwind CSS
+- **Language:** TypeScript
+
+## 📦 Usage
 
 To get started, run the following commands:
 
